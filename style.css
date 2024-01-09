@@ -167,3 +167,27 @@ body {
     font-size: 20px;
     font-weight: 400;
  }
+ .newsletter {
+    text-align: center;
+    width: 1320px;
+    height: 610px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+ }
+ 
+ .newsletter img {
+    margin-top: 80px;
+ }
+ 
+ .newsletter h2 {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+ }
+ 
+ .newsletter p {
+    color: rgba(7, 2, 17, 0.6);
+    font-size: 20px;
+    font-weight: 400;
+ }

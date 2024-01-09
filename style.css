@@ -87,7 +87,12 @@ body {
     color: #fff;
     margin-left: 126px;
     padding-top: 126px;
+    display: flex;
+    justify-content: space-between;
 }
+  .new{
+    margin-right: 20px;
+  }
 
 .party-text button {
     border: none;
